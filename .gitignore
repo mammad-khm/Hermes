@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Secrets: login hash and signing key live here on the server
+server/console.env
